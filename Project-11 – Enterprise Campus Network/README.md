@@ -111,7 +111,7 @@ Project-11-Enterprise-Campus-Network/
 
 ## Enterprise Network Topology
 
-Figure 1. Enterprise Campus Network Topology.png
+![Enterprise Campus Network Topology](Assets/Figure%201.%20Enterprise%20Campus%20Network%20Topology.png)
 
 The enterprise topology is expanded by introducing HQ-RTR02, additional redundant Layer 3 connections, backup branch WAN links, and a secondary Internet connection to ISP-RTR01.
 
