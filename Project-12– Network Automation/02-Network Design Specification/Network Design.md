@@ -17,7 +17,7 @@ The `linux-mgmt01` host serves as the centralized automation workstation, establ
 ---
 ## Network Automation Topology
 
-![[Assets/P12-Network-Automation-Topology.png]]
+![Network Automation Topology](../Assets/P12-Network-Automation-Topology.png)
 
 The topology illustrates logical SSH management connections between the Linux automation host and the selected enterprise devices.
 

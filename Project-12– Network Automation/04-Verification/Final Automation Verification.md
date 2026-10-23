@@ -19,7 +19,7 @@ The successful Netmiko import confirmed that the environment was ready for netwo
 
 **Verification Evidence:**
 
-![[Screenshots/P12-01-Python-Netmiko-Verification.png]]
+![P12-01 Python Netmiko Verification](../Screenshots/P12-01-Python-Netmiko-Verification.png)
 
 ---
 
@@ -31,7 +31,7 @@ The `getpass()` function was implemented to request SSH passwords securely witho
 
 **Verification Evidence:**
 
-![[Screenshots/P12-02-Device-Connection-Parameters.png]]
+![P12-02 Device Connection Parameters](../Screenshots/P12-02-Device-Connection-Parameters.png)
 
 ---
 
@@ -43,7 +43,7 @@ The `is_alive()` method confirmed that the SSH session was active.
 
 **Verification Evidence:**
 
-![[Screenshots/P12-03-SSH-Connection-Verification.png]]
+![P12-03 SSH Connection Verification](../Screenshots/P12-03-SSH-Connection-Verification.png)
 
 ---
 
@@ -55,9 +55,9 @@ The retrieved output confirmed successful remote command execution and access to
 
 **Verification Evidence:**
 
-![[Screenshots/P12-04A-Command-Execution.png]]
+![P12-04A Command Execution](../Screenshots/P12-04A-Command-Execution.png)
 
-![[Screenshots/P12-04B-Command-Output.png]]
+![P12-04B Command Output](../Screenshots/P12-04B-Command-Output.png)
 
 ---
 
@@ -69,7 +69,7 @@ The output displayed interface names, IP addresses, interface status, and protoc
 
 **Verification Evidence:**
 
-![[Screenshots/P12-05-Interface-Verification.png]]
+![P12-05 Interface Verification](../Screenshots/P12-05-Interface-Verification.png)
 
 ---
 
@@ -83,9 +83,9 @@ The test identified Vlan1 as having a down protocol status during verification.
 
 **Verification Evidence:**
 
-![[Screenshots/P12-06-Down-Interface-Detection.png]]
+![P12-06 Down Interface Detection](../Screenshots/P12-06-Down-Interface-Detection.png)
 
-![[Screenshots/P12-07-Interface-Analysis-Script.png]]
+![P12-07 Interface Analysis Script](../Screenshots/P12-07-Interface-Analysis-Script.png)
 
 ---
 
@@ -103,9 +103,9 @@ The script processed both devices sequentially and retrieved their interface inf
 
 **Verification Evidence:**
 
-![[Screenshots/P12-08-Multi-Device-Script.png]]
+![P12-08 Multi Device Script](../Screenshots/P12-08-Multi-Device-Script.png)
 
-![[Screenshots/P12-09-Multi-Device-Verification.png]]
+![P12-09 Multi Device Verification](../Screenshots/P12-09-Multi-Device-Verification.png)
 
 ---
 
@@ -123,15 +123,15 @@ The final script was executed successfully, retrieving interface information fro
 
 **HQ-MLS01 – Final Verification**
 
-![[Screenshots/P12-10A-HQ-MLS01-Verification.png]]
+![P12-10A HQ-MLS01 Verification](../Screenshots/P12-10A-HQ-MLS01-Verification.png)
 
 **HQ-RTR01 – Final Verification**
 
-![[Screenshots/P12-10B-HQ-RTR01-Verification.png]]
+![P12-10B HQ-RTR01 Verification](../Screenshots/P12-10B-HQ-RTR01-Verification.png)
 
 **Final Python Automation Script**
 
-![[Screenshots/P12-11-Final-Netmiko-Automation-Script.png]]
+![P12-11 Final Netmiko Automation Script](../Screenshots/P12-11-Final-Netmiko-Automation-Script.png)
 
 ---
 
